@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 12,
+    "git.autofetch": true,
+    "terminal.integrated.fontSize": 12,
+    "workbench.colorTheme": "Abyss",
+    "workbench.sideBar.location": "right"
+}
