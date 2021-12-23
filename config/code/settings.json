@@ -1,9 +1,14 @@
 {
-    "editor.fontSize": 12,
+    "editor.autoIndent": "advanced",
+    /*Download Font here: https://www.jetbrains.com/lp/mono/*/
+    "editor.fontFamily": "Jetbrains Mono, monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "git.autofetch": true,
-    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 13,
     "workbench.colorTheme": "Abyss",
-    "workbench.sideBar.location": "right"
+    "workbench.sideBar.location": "right",
 }
