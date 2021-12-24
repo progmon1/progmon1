@@ -17,5 +17,5 @@
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize": 13,
     "workbench.colorTheme": "Abyss",
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "right"
 }
